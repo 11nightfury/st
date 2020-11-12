@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Hack Nerd Font Mono:style=Bold:size=12";
-static char *font2[] = { "Hack Nerd Font Mono:style=Bold:size=12" };
+static char *font = "Hack Nerd Font:style=Bold:size=12";
+static char *font2[] = { "Hack Nerd Font:style=Bold:size=12" };
 static int borderpx = 2;
 
 /*
